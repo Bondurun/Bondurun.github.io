@@ -1,0 +1,92 @@
+
+body {
+font-size: 20px;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: black;
+    margin-left: 1.25%;
+    letter-spacing: 0.2rem;
+    background-color: blanchedalmond;
+    
+
+}
+
+#gallary-header{
+    text-transform: uppercase;
+    font-family: "Open Sans", sans-serif;
+    margin-left: 1.25%;
+    border-bottom: 2px solid blue;
+    padding-bottom: 20px ;
+width: 97.5%;
+}
+
+.image
+
+{
+    height: 200px; 
+    width: 22.5%;
+    float: left;
+    margin: 1.25%;
+    background-size: cover ;
+    background-position: center;
+   }
+.image1
+ {    
+    background-image: url("image1.png.jpg");
+ }
+ .image2
+ {
+    background-image: url("image2.png.jpg");
+ }
+ .image3
+ {    
+    background-image: url("image3.png.jpg");
+ }
+ .image4
+ {
+     
+    background-image: url("image4.png.jpg");
+ }
+ .image5
+ {    
+    background-image: url("image5.png.jpg");
+ }
+ .image6
+ {
+    background-image: url("image6.png.jpg");
+ }
+ .image7
+ {    
+    background-image: url("image7.png.jpg");
+ }
+ .image8
+ {
+    background-image: url("image8.png.jpg");
+ }
+ #date{
+    text-transform: uppercase;
+    
+ }
+ h2{
+     margin-left:1.25% ;
+ }
+ p{
+     margin-left: 1.25%;
+     border-left: 5px solid blue;
+     padding-left: 5px;
+ }
+ #special {
+     margin-left: 1.25%;
+    border-left: 5px solid blue;
+    padding-left: 5px;
+
+ }
+ hr{
+margin-left: 1.25%;
+width: 97.5%;
+margin-bottom: 50px;
+border: 0;
+height: 1px;
+background: #333;
+background-image: linear-gradient(to right, #ccc,#333,#ccc);
+
+ }
