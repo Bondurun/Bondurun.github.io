@@ -1,0 +1,39 @@
+table {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; text-align: left; 
+font-weight: 600; font-size: larger;
+border-collapse: separate ;
+border-spacing: 15px;
+background-color: rgb(57, 153, 243);
+border: 3px solid #0c035e;
+border-radius: 20px;
+width: 50%;
+height: 50px;
+
+}
+th {
+font-size: 30px;
+padding: 10px;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+color: rgb(7, 73, 73);
+
+}
+td {
+    background-color: rgb(188, 207, 192);
+    padding: 10px;
+}
+body {
+    background: url(ski2.jpg);
+}
+h1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 50px;
+    text-align: center;
+    color: lightskyblue;
+}
+h2 {
+    font-size: 40px;
+    color: lightseagreen;
+}
+
+
+
